@@ -2,22 +2,29 @@
   font-family: "FUCXED CAPS";
 }
 
+#orb-h1a{
+  font-family: "FUCXED CAPS";
+  text-align: center;
+  font-size: 2.5em;
+}
+
 #orb-p{
   font-family: "Crimson Text";
+  font-size: 2em;
 }
 
 #orb-p1{
   font-family: "Crimson Text";
-  font-size: 1.2em;
+  font-size: 1.8em;
   padding: 15px;
-}
-
-body{
-  overflow: scroll;
 }
 
 #orbImg{
   width: 100%;
   height: 100%;
   object-fit: contain;
+}
+
+#ddown{
+  font-size: 1.5em;
 }
