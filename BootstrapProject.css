@@ -6,6 +6,12 @@
   font-family: "Crimson Text";
 }
 
+#orb-p1{
+  font-family: "Crimson Text";
+  font-size: 1.2em;
+  padding: 15px;
+}
+
 body{
   overflow: scroll;
 }
